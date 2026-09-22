@@ -135,16 +135,6 @@ export function Hero() {
               <LinkedinIcon className="w-4 h-4" />
               <span>LinkedIn</span>
             </a>
-
-            <a
-              href={personalData.socials.leetcode}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-1.5 text-xs font-mono text-[#94a3b8] hover:text-[#f1f5f9] transition-all hover:scale-105"
-            >
-              <Code2 className="w-4 h-4" />
-              <span>LeetCode</span>
-            </a>
           </div>
         </div>
 

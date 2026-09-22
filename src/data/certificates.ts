@@ -101,15 +101,5 @@ export const certificatesData: Certificate[] = [
     imageUrl: "/certificates/meta-hacker-cup.png",
     skills: ["Algorithmic Optimization", "Data Structures", "Competitive Programming"],
     description: "Qualified past preliminary rounds into Round 2 of Meta's international competitive programming tournament, competing in the algorithmic track."
-  },
-  {
-    title: "50-Day Consistency Badge",
-    issuer: "LeetCode",
-    category: "Achievement",
-    issueDate: "2025",
-    verifyUrl: "https://leetcode.com/u/Aatka/",
-    imageUrl: "/certificates/leetcode-50.png",
-    skills: ["Algorithms", "Problem Solving", "Time/Space Complexity"],
-    description: "Maintained a 50-day streak solving daily algorithmic problems across dynamic programming, graph traversal, and arrays."
   }
 ];
