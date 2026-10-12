@@ -19,7 +19,7 @@ export const certificatesData: Certificate[] = [
     category: "Certification",
     issueDate: "Jul 27 – Aug 6, 2026",
     verifyUrl: "https://credsverse.com/credentials/b2f77d99-f460-44b9-ab6c-5990a4532db7?preview=1",
-    imageUrl: "/certificates/cohere-ml.png",
+    imageUrl: "/certificates/cohere-ml.webp",
     skills: ["World Models", "LLM Evaluation", "Agentic Reasoning", "Reinforcement Learning", "Edge AI", "System Observability"],
     description: "11-session deep technical intensive led by researchers from Cohere Labs, Mila, DeepMind, and Meta covering world models, continual RL, edge agentic inference, LLM-as-a-judge evaluation, and AI system reliability."
   },
